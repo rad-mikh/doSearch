@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mike\\Desktop\\работа\\проги\\doSearch\\doSearch\\doSearch.csproj": {}
+    "C:\\Users\\mike\\Documents\\GitHub\\desktop-tutorial\\doSearch\\doSearch\\doSearch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mike\\Desktop\\работа\\проги\\doSearch\\doSearch\\doSearch.csproj": {
+    "C:\\Users\\mike\\Documents\\GitHub\\desktop-tutorial\\doSearch\\doSearch\\doSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mike\\Desktop\\работа\\проги\\doSearch\\doSearch\\doSearch.csproj",
+        "projectUniqueName": "C:\\Users\\mike\\Documents\\GitHub\\desktop-tutorial\\doSearch\\doSearch\\doSearch.csproj",
         "projectName": "doSearch",
-        "projectPath": "C:\\Users\\mike\\Desktop\\работа\\проги\\doSearch\\doSearch\\doSearch.csproj",
+        "projectPath": "C:\\Users\\mike\\Documents\\GitHub\\desktop-tutorial\\doSearch\\doSearch\\doSearch.csproj",
         "packagesPath": "C:\\Users\\mike\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mike\\Desktop\\работа\\проги\\doSearch\\doSearch\\obj\\",
+        "outputPath": "C:\\Users\\mike\\Documents\\GitHub\\desktop-tutorial\\doSearch\\doSearch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mike\\AppData\\Roaming\\NuGet\\NuGet.Config",

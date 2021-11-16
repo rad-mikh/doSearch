@@ -11,3 +11,16 @@ C:\Users\mike\Desktop\работа\проги\doSearch\doSearch\obj\Debug\netcor
 C:\Users\mike\Desktop\работа\проги\doSearch\doSearch\obj\Debug\netcoreapp3.1\doSearch.dll
 C:\Users\mike\Desktop\работа\проги\doSearch\doSearch\obj\Debug\netcoreapp3.1\doSearch.pdb
 C:\Users\mike\Desktop\работа\проги\doSearch\doSearch\obj\Debug\netcoreapp3.1\doSearch.genruntimeconfig.cache
+C:\Users\mike\Documents\GitHub\desktop-tutorial\doSearch\doSearch\bin\Debug\netcoreapp3.1\doSearch.exe
+C:\Users\mike\Documents\GitHub\desktop-tutorial\doSearch\doSearch\bin\Debug\netcoreapp3.1\doSearch.deps.json
+C:\Users\mike\Documents\GitHub\desktop-tutorial\doSearch\doSearch\bin\Debug\netcoreapp3.1\doSearch.runtimeconfig.json
+C:\Users\mike\Documents\GitHub\desktop-tutorial\doSearch\doSearch\bin\Debug\netcoreapp3.1\doSearch.runtimeconfig.dev.json
+C:\Users\mike\Documents\GitHub\desktop-tutorial\doSearch\doSearch\bin\Debug\netcoreapp3.1\doSearch.dll
+C:\Users\mike\Documents\GitHub\desktop-tutorial\doSearch\doSearch\bin\Debug\netcoreapp3.1\doSearch.pdb
+C:\Users\mike\Documents\GitHub\desktop-tutorial\doSearch\doSearch\obj\Debug\netcoreapp3.1\doSearch.csprojAssemblyReference.cache
+C:\Users\mike\Documents\GitHub\desktop-tutorial\doSearch\doSearch\obj\Debug\netcoreapp3.1\doSearch.AssemblyInfoInputs.cache
+C:\Users\mike\Documents\GitHub\desktop-tutorial\doSearch\doSearch\obj\Debug\netcoreapp3.1\doSearch.AssemblyInfo.cs
+C:\Users\mike\Documents\GitHub\desktop-tutorial\doSearch\doSearch\obj\Debug\netcoreapp3.1\doSearch.csproj.CoreCompileInputs.cache
+C:\Users\mike\Documents\GitHub\desktop-tutorial\doSearch\doSearch\obj\Debug\netcoreapp3.1\doSearch.dll
+C:\Users\mike\Documents\GitHub\desktop-tutorial\doSearch\doSearch\obj\Debug\netcoreapp3.1\doSearch.pdb
+C:\Users\mike\Documents\GitHub\desktop-tutorial\doSearch\doSearch\obj\Debug\netcoreapp3.1\doSearch.genruntimeconfig.cache
